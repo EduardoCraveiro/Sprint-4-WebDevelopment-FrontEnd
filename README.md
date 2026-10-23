@@ -87,7 +87,7 @@ Os testes geram o build e verificam páginas públicas, arquivos estáticos, blo
 
 ## Links
 
-- Repositório: https://github.com/EduardoCraveiro/Sprint-3-WebDevelopment
+- Repositório: https://github.com/EduardoCraveiro/Sprint-4-WebDevelopment-FrontEnd
 - Vercel: https://sprint-3-web-development-three.vercel.app
 
 O link da Vercel é o endereço informado na Sprint 3. A publicação das alterações da Sprint 4 será feita manualmente pelo responsável.
